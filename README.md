@@ -22,14 +22,14 @@
 
 🔗 Links
 
-Dashboard do Power BI: Acesse
+Dashboard do Power BI: <a href="https://app.powerbi.com/view?r=eyJrIjoiNzM1MGRlMWQtYzI3Zi00NDczLTg5YmItYzlkMTM2Y2I1MjAwIiwidCI6IjBjM2IyYzljLWVlYTctNDJlZi04YTYzLTcwOWIyNjU5NzYxOCJ9">Acesse</a>
 
-Apresentação (Business Analysis): Acesse
+Apresentação (Business Analysis): <a href="https://github.com/RastaDados/Analise-de-Sentimentos-em-Companhias-Aereas/blob/main/An%C3%A1lise%20de%20Mercado.md">Acesse</a>
 
-Dashboards e Códigos Utilizados neste Projeto: Acesse
+Dashboards e Códigos Utilizados neste Projeto: <a href="https://github.com/RastaDados/Analise-de-Sentimentos-em-Companhias-Aereas/tree/main/Dashboards">Acesse</a>
 
 <hr>
 
 ✍️ Autor
 
-Mateus França - LinkedIn
+Mateus França - <a href="https://www.linkedin.com/in/mateus-fran%C3%A7a-775b57113/">LinkedIn</a>
