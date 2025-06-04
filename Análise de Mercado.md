@@ -91,10 +91,130 @@
 
 ## Análise Competitiva
 
+<table>
+  <thead>
+    <tr>
+      <th>Métrica</th>
+      <th>Virgin America</th>
+      <th>United</th>
+      <th>Delta</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Satisfação Geral</td>
+      <td>3.2 de 5</td>
+      <td>2.8 de 5</td>
+      <td>3.6 de 5</td>
+    </tr>
+    <tr>
+      <td>Tempo de Resposta</td>
+      <td>1h45m</td>
+      <td>2h30m</td>
+      <td>1h15m</td>
+    </tr>
+    <tr>
+      <td>% Resolução</td>
+      <td>68%</td>
+      <td>55%</td>
+      <td>72%</td>
+    </tr>
+  </tbody>
+</table>
 
+<hr>
 
+## Recomendações Táticas
 
+#### Operações
 
+- Implementar sistema de alerta precoce para atrasos
+- Criar protocolos de comunicação para situações críticas
+- Estabelecer SLA para respostas em redes sociais
+
+#### Marketing
+
+- Desenvolver campanha destacando melhorias implementadas
+- Criar programa de recompensas para clientes fiéis
+- Produzir conteúdo educativo sobre direitos do passageiro
+
+#### Tecnologia
+
+- Implementar chatbot para perguntas frequentes
+- Desenvolver dashboard de monitoramento em tempo real
+- Integrar análise de sentimentos ao CRM
+
+<hr>
+
+## Plano de Ação Que Sugiro
+
+<table>
+  <thead>
+    <tr>
+      <th>Iniciativa</th>
+      <th>Responsável</th>
+      <th>Prazo</th>
+      <th>Indicador de Sucesso</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Treinamento de Atendimento</td>
+      <td>RH</td>
+      <td>60 dias</td>
+      <td>15% redução em reclamações</td>
+    </tr>
+    <tr>
+      <td>Sistema de Alerta de Atrasos</td>
+      <td>TI</td>
+      <td>90 dias</td>
+      <td>20% mais avisos proativos</td>
+    </tr>
+    <tr>
+      <td>Equipe de Resposta Rápida</td>
+      <td>Marketing</td>
+      <td>30 dias</td>
+      <td>50% redução no tempo de resposta</td>
+    </tr>
+    <tr>
+      <td>Dashboard de Monitoramento</td>
+      <td>BI</td>
+      <td>45 dias</td>
+      <td>Acesso diário pela diretoria</td>
+    </tr>
+  </tbody>
+</table>
+
+## Outras Visualizações
+
+#### Dataset Processado:
+
+- 14.598 tweets analisados
+- 9.051 tweets negativos (62%)
+- 3.063 tweets neutros (21%)
+- 2.484 tweets positivos (17%)
+
+#### Principais Tópicos Identificados:
+
+- Problemas com reservas e check-in (24,3%)
+- Atendimento ao cliente (31,7%)
+- Experiência a bordo (18,9%)
+- Problemas com bagagem (12,5%)
+- Sugestões de melhoria (12,6%)
+
+### Performance por Companhia Aérea:
+
+#### Virgin America:
+
+- Média de sentimento: -0,23
+- Tempo médio de resposta: 1h47m
+- Taxa de resolução: 68%
+
+#### United:
+
+- Média de sentimento: -0,41
+- Tempo médio de resposta: 2h31m
+- Taxa de resolução: 55%
 
 
 
